@@ -9,7 +9,7 @@ jpense qu’un truc pas mal c’est de faire faire le process aux gens et de **l
 juste une indication quoi
 genre une petite fenêtre ou un truc comme ça
 
-Tsais sur Slack par exemple quand tu créees ton compte** t’as le slackbot qui te parle et te dit rudimentairement comment ça marche** avec des highlights et tout
+Tsais sur Slack par exemple quand tu créees ton compte **t’as le slackbot qui te parle et te dit rudimentairement comment ça marche** avec des highlights et tout
 
 [Tuto fail] ce qui a été le cas avec **Ni no Kuni 2 par exemple pour les mousses, et j’ai toujours pas compris comment faire les fusions parce que** l’explication était trop dense haha
 
@@ -33,7 +33,7 @@ J’ai toujours entendu beaucoup de bien du tuto de **half life,** tu devrais pe
 le tuto de jet set radio future est tellement tout nul xD genre “saute une fois” ok “saute trois fois”  “fais un grind”  “fais encore un grind” “fais un graffiti”
 ils auraient tellement pu juste intégrer ça dans le 1er niveau au lieu de faire une phase comme ça
 
-Ouais ça **c’est ce qui me tue le plus l’envie de jouer au début ** haha
+Ouais ça **c’est ce qui me tue le plus l’envie de jouer au début** haha
 
 bon ça va ça dure à peine 2 minutes à faire
 mais gngngn
