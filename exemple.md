@@ -1,7 +1,7 @@
 
-##Discussion Slack
+## Discussion Slack
 
-J’ai pas trop le temps de chercher là, mais ça sur le **blog de Célia Hodent **il y a des ressources cool
+J’ai pas trop le temps de chercher là, mais ça sur le **blog de Célia Hodent** il y a des ressources cool
 
 En général **un bon tuto c’est plus qu’un tuto parce que on t’explique un truc, mais ensuite on fait en sorte que tu aies besoin de l’utiliser plusieurs fois pour pas que tu oublies etc**
 
@@ -11,7 +11,7 @@ genre une petite fenêtre ou un truc comme ça
 
 Tsais sur Slack par exemple quand tu créees ton compte** t’as le slackbot qui te parle et te dit rudimentairement comment ça marche** avec des highlights et tout
 
-[Tuto fail] ce qui a été le cas avec **Ni no Kuni 2 par exemple pour les mousses, **et j’ai toujours pas compris comment faire les fusions parce que** l’explication était trop dense **haha
+[Tuto fail] ce qui a été le cas avec **Ni no Kuni 2 par exemple pour les mousses, et j’ai toujours pas compris comment faire les fusions parce que** l’explication était trop dense haha
 
 **Et toujours faire faire l’action aux gens d’une façon qui a du sens**
 Parce que si ils cliquent juste parce qu’on leur a dit de cliquer c’est nase
@@ -33,7 +33,7 @@ J’ai toujours entendu beaucoup de bien du tuto de **half life,** tu devrais pe
 le tuto de jet set radio future est tellement tout nul xD genre “saute une fois” ok “saute trois fois”  “fais un grind”  “fais encore un grind” “fais un graffiti”
 ils auraient tellement pu juste intégrer ça dans le 1er niveau au lieu de faire une phase comme ça
 
-Ouais ça** c’est ce qui me tue le plus l’envie de jouer au début **haha
+Ouais ça **c’est ce qui me tue le plus l’envie de jouer au début ** haha
 
 bon ça va ça dure à peine 2 minutes à faire
 mais gngngn
@@ -41,13 +41,13 @@ mais gngngn
 Ah bah tiens tu te souviens la phase de tutoriel qu’on lançait par erreur sur les machines de ryhtme au Japon ? 
 
 
-##Ressources 
+## Ressources 
 
 - \url{https://celiahodent.com/}
 - \url{https://gamasutra.com/}
 
 
-##Tutoriel cool
+## Tutoriel cool
 - Zelda Breath of the Wild
 - half life,
 - Octopat Traveler
